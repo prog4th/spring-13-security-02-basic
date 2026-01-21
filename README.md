@@ -14,6 +14,6 @@ https://zrr.kr/hVeU1l
 <img width="150" alt="image" src="https://github.com/user-attachments/assets/2574d1cf-7da6-43fb-9a7a-c15aa91fe6e5" />
 
 ---
-https://nano5.notion.site/Authentication-2dadaf211d4281d1a6f2de52157c1e6f?source=copy_link
+https://nano5.notion.site/Authentication-2dadaf211d4281d1a6f2de52157c1e6f#2eedaf211d4280a3817dfb414651baed
 
 <img width="640" alt="image" src="https://github.com/user-attachments/assets/52564991-7205-4f8d-8eb9-0d3aec610032" />
