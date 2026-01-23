@@ -3,15 +3,14 @@ package kr.ac.kumoh.s20260000.spring13security02basic
 import org.springframework.context.annotation.Bean
 import org.springframework.context.annotation.Configuration
 import org.springframework.security.config.annotation.web.builders.HttpSecurity
-import org.springframework.security.config.annotation.web.configuration.EnableWebSecurity
 import org.springframework.security.config.annotation.web.invoke
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder
 import org.springframework.security.provisioning.InMemoryUserDetailsManager
 import org.springframework.security.web.SecurityFilterChain
 
 @Configuration
-// TODO: 실행 결과 확인 후에는 주석 처리할 것
-@EnableWebSecurity(debug = true)
+//// TODO: 실행 결과 확인 후에는 주석 처리할 것
+//@EnableWebSecurity(debug = true)
 class SecurityConfig {
 
     @Bean
